@@ -11,6 +11,9 @@ public class App {
         //TODO hacer algo con este proyecto
         System.out.println(name);
         System.out.println(name);
+        if(name.equals("FER")){
+            System.out.println("Hola caracola!");
+        }
     }
     
     public void metodo()
