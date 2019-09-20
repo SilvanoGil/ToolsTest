@@ -10,6 +10,7 @@ public class App {
     public static void main(String[] args) {
         //TODO hacer algo con este proyecto
         System.out.println(name);
+        System.out.println(name);
     }
     
     public void metodo()
