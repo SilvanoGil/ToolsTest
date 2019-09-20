@@ -5,13 +5,11 @@ package com.toolstest;
  */
 public class App {
     
-    private String name;
+    private static String name = "FER";
 
     public static void main(String[] args) {
         //TODO hacer algo con este proyecto
-        name = "Fer";
         System.out.println(name);
-        name = "Rachel";
     }
     
     public void metodo()
